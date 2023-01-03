@@ -32,8 +32,8 @@
 		"webextension-polyfill": "^0.7.0"
 	},
 	"devDependencies": {
-		"@parcel/config-webextension": "^2.0.0-nightly.2259",
-		"parcel": "^2.0.0-nightly.635",
+		"@parcel/config-webextension": "^2.8.2",
+		"parcel": "^2.8.2",
 		"xo": "^0.38.2"
 	},
 	"engines": {
